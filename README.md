@@ -4,4 +4,4 @@
 * logreg.ipynb -- Logistic Regression + TF-IDF with multiple features; uses [data](https://drive.google.com/file/d/1bW0NiUSqriUNxwFd4ToQIPssBOl-gDcQ/view?usp=sharing) with annotated keywords scores (Min and Max) from RAKE
 * frozen.ipynb -- BERT with frozen layers
 #### Data analysis
-code: add link here
+[Colab notebook](https://colab.research.google.com/drive/1gShXlB-_qjmLzNr32meqEuWQuVoDWvZk?usp=sharing) (not finished, because I lost all my code in the previous time...)
