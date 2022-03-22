@@ -6,4 +6,4 @@
 * ELMO.ipynb -- Classification with ELMO model (TensorFlow)
 * ROBERTA -- Classfication with ROBERTA
 #### Data analysis
-[Colab notebook](https://colab.research.google.com/drive/1gShXlB-_qjmLzNr32meqEuWQuVoDWvZk?usp=sharing) (not finished, because I lost all my code in the previous time...)
+[Colab notebook](https://colab.research.google.com/drive/1gShXlB-_qjmLzNr32meqEuWQuVoDWvZk?usp=sharing)
