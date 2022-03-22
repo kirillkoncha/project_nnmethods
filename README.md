@@ -1,5 +1,5 @@
 ### [Russian Artificial Text Detection Dialogue Shared task](https://www.kaggle.com/c/ruatd-2022-bi/) 
-## 8th place out of 30 with 81% accuracy score
+##### 8th place out of 30 with 81% accuracy score
 #### [Project presentation](https://docs.google.com/presentation/d/1sWbo6Toc60kEPzwrjAAK4qzuVdgNHaIeGA9yuKpVq8M/edit?usp=sharing)
 #### Description of code files
 * logreg.ipynb -- Logistic Regression + TF-IDF with multiple features; uses [data](https://drive.google.com/file/d/1bW0NiUSqriUNxwFd4ToQIPssBOl-gDcQ/view?usp=sharing) with annotated keywords scores (Min and Max) from RAKE
