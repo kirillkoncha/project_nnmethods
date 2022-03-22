@@ -6,6 +6,7 @@
 * ELMO.ipynb -- Classification with ELMO model (TensorFlow)
 * ROBERTA -- Classfication with ROBERTA
 * ruatd-rubert-mixed-features.ipynb -- Rubert model with text length implementation
+* rubert_conversational_freezing.ipynb -- rubert conversational with 4 frozen layers (code is messy)
 
 and many more model codes were used...
 
