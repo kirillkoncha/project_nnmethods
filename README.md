@@ -5,5 +5,6 @@
 * frozen.ipynb -- BERT with frozen layers
 * ELMO.ipynb -- Classification with ELMO model (TensorFlow)
 * ROBERTA -- Classfication with ROBERTA
+* ruatd-rubert-mixed-features.ipynb -- Rubert model with text length implementation
 #### Data analysis
 [Colab notebook](https://colab.research.google.com/drive/1gShXlB-_qjmLzNr32meqEuWQuVoDWvZk?usp=sharing)
