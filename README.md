@@ -9,7 +9,7 @@
 * ruatd-rubert-mixed-features.ipynb -- Rubert model with text length implementation
 * rubert-conversational-with-freezing.ipynb -- rubert conversational with 4 frozen layers
 
-and some more model codes were used, but there were mostly some parameters changed...
+and some more notebooks with models were used, but there were mostly some parameters changed...
 
 #### Data analysis
 [Colab notebook](https://colab.research.google.com/drive/1gShXlB-_qjmLzNr32meqEuWQuVoDWvZk?usp=sharing)
